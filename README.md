@@ -17,8 +17,8 @@
 ---
 
 ## 📱 Download
-
-Grab the latest Android release from the [Releases](https://github.com/raunakpatil/triviaflux/releases) page.
+ 
+### ⬇️ [Download TriviaFlux.apk](https://github.com/raunakpatil/triviaflux/releases/latest/download/TriviaFlux.apk)
 
 > **Requires Android 7.0+** — enable *Install from unknown sources* in your device settings before installing.
 
