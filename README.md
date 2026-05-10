@@ -10,7 +10,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-11-orange?style=flat-square&logo=firebase)](https://firebase.google.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=flat-square&logo=android)](https://github.com/raunakpatil/triviaflux/releases/latest/download/TriviaFlux.apk)
 
 [Download APK](#-download) · [Screenshots](#-screenshots) · [Features](#-features) · [Getting Started](#-getting-started) · [Tech Stack](#-tech-stack)
@@ -157,13 +156,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 2. Create a feature branch (`git checkout -b feature/cool-thing`)
 3. Commit your changes (`git commit -m 'Add cool thing'`)
 4. Push and open a PR
-
----
-
-## 📄 License
-
-
-Free to use for any purpose — personal or commercial. All I ask is that you credit **[@raunakpatil](https://github.com/raunakpatil)** as the original author.
 
 ---
 
