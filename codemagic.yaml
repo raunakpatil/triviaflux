@@ -1,8 +1,9 @@
-workflows:
+﻿workflows:
   android-debug:
     name: TriviaFlux Android APK
     max_build_duration: 60
     environment:
+      java: 21
       node: latest
     scripts:
       - name: Install dependencies
