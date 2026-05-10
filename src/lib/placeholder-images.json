@@ -1,0 +1,34 @@
+{
+  "placeholderImages": [
+    {
+      "id": "city-tokyo",
+      "description": "City of Tokyo at night",
+      "imageUrl": "https://picsum.photos/seed/tokyo/800/600",
+      "imageHint": "Tokyo city"
+    },
+    {
+      "id": "city-new-york",
+      "description": "New York City skyline",
+      "imageUrl": "https://picsum.photos/seed/nyc/800/600",
+      "imageHint": "New York City"
+    },
+    {
+      "id": "nature-desert",
+      "description": "Sahara desert dunes",
+      "imageUrl": "https://picsum.photos/seed/sahara/800/600",
+      "imageHint": "Sahara desert"
+    },
+    {
+      "id": "tech-bitcoin",
+      "description": "Bitcoin coin",
+      "imageUrl": "https://picsum.photos/seed/bitcoin/800/600",
+      "imageHint": "Bitcoin crypto"
+    },
+    {
+      "id": "tech-apple",
+      "description": "Apple headquarters",
+      "imageUrl": "https://picsum.photos/seed/apple/800/600",
+      "imageHint": "Apple office"
+    }
+  ]
+}

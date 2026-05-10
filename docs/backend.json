@@ -1,0 +1,27 @@
+
+{
+  "entities": {
+    "CachedEntity": {
+      "title": "Cached Entity Image",
+      "description": "Stores finalized image URLs for game entities to avoid repeated API calls.",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "imageUrl": { "type": "string" },
+        "thumbnailUrl": { "type": "string" },
+        "category": { "type": "string" },
+        "updatedAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["name", "imageUrl"]
+    }
+  },
+  "auth": {
+    "providers": ["google.com"]
+  },
+  "firestore": {
+    "/cachedEntities/{entityId}": {
+      "schema": "#/backend/entities/CachedEntity",
+      "description": "Cache for entity image URLs."
+    }
+  }
+}
