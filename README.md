@@ -2,7 +2,7 @@
 
 # 🧠 TriviaFlux
 
-**An AI-powered trivia app built with Next.js, Firebase & Google Genkit**
+**An AI-powered Trivia Game built with Next.js, Firebase & Google Genkit**
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-11-orange?style=flat-square&logo=firebase)](https://firebase.google.com/)
