@@ -1,6 +1,7 @@
+﻿import { MetadataRoute } from 'next'
 
-import { MetadataRoute } from 'next'
- 
+export const dynamic = 'force-static'
+
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: 'TriviaFlux Knowledge Engine',
@@ -12,14 +13,9 @@ export default function manifest(): MetadataRoute.Manifest {
     theme_color: '#00E5A0',
     icons: [
       {
-        src: 'https://picsum.photos/seed/tf-icon/192/192',
-        sizes: '192x192',
-        type: 'image/png',
-      },
-      {
-        src: 'https://picsum.photos/seed/tf-icon-large/512/512',
-        sizes: '512x512',
-        type: 'image/png',
+        src: 'favicon.ico',
+        sizes: '64x64',
+        type: 'image/x-icon',
       },
     ],
   }
