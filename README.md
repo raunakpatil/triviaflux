@@ -23,6 +23,21 @@
 > **Requires Android 7.0+** — enable *Install from unknown sources* in your device settings before installing.
 
 ---
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><b>Home — Game Modes</b></td>
+    <td align="center"><b>Category Select</b></td>
+    <td align="center"><b>Classic Gameplay</b></td>
+  </tr>
+  <tr>
+    <td><img src="docs/home.png" width="220" alt="Home screen showing Classic, Trivia Mix, Challenge and Daily Sync modes"/></td>
+    <td><img src="docs/categories.png" width="220" alt="Category selection with Geography, Entertainment, Science and Tech"/></td>
+    <td><img src="docs/gameplay.png" width="220" alt="Classic mode gameplay with Higher/Lower mechanic and score counter"/></td>
+  </tr>
+</table>
+</div>
+---
 
 ## ✨ Features
 
