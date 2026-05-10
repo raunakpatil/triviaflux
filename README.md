@@ -162,7 +162,8 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+Free to use for any purpose — personal or commercial. All I ask is that you credit **[@raunakpatil](https://github.com/raunakpatil)** as the original author.
 
 ---
 
