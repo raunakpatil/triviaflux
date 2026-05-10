@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🧠 TriviaFlux
+<div align="center">
+<img src="docs/banner.png" alt="TriviaFlux Banner" width="100%"/>
+
+
+#  TriviaFlux
 
 **An AI-powered Trivia Game built with Next.js, Firebase & Google Genkit**
 
