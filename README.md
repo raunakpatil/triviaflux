@@ -1,10 +1,8 @@
-<div align="center">
-
-<div align="center">
 <img src="docs/banner.png" alt="TriviaFlux Banner" width="100%"/>
 
+<div align="center">
 
-#  TriviaFlux
+# TriviaFlux
 
 **An AI-powered Trivia Game built with Next.js, Firebase & Google Genkit**
 
@@ -13,20 +11,26 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-38bdf8?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=flat-square&logo=android)](https://github.com/raunakpatil/triviaflux/releases/latest/download/TriviaFlux.apk)
 
-[Download APK](#-download) · [Features](#-features) · [Getting Started](#-getting-started) · [Tech Stack](#-tech-stack)
+[Download APK](#-download) · [Screenshots](#-screenshots) · [Features](#-features) · [Getting Started](#-getting-started) · [Tech Stack](#-tech-stack)
 
 </div>
 
 ---
 
 ## 📱 Download
- 
+
 ### ⬇️ [Download TriviaFlux.apk](https://github.com/raunakpatil/triviaflux/releases/latest/download/TriviaFlux.apk)
+
+Or browse all versions on the [Releases page](https://github.com/raunakpatil/triviaflux/releases).
 
 > **Requires Android 7.0+** — enable *Install from unknown sources* in your device settings before installing.
 
 ---
+
+## 📸 Screenshots
+
 <div align="center">
 <table>
   <tr>
@@ -41,17 +45,18 @@
   </tr>
 </table>
 </div>
+
 ---
 
 ## ✨ Features
 
-- 🤖 **AI-Generated Questions** — Trivia questions powered by Google Genkit & Gemini, so every session feels fresh
-- 🏆 **Score Tracking** — Real-time leaderboards and personal bests backed by Firebase
-- 🎯 **Multiple Categories** — Covers a wide range of topics to keep things interesting
-- 🎉 **Confetti Celebrations** — Because every right answer deserves a party
-- 📊 **Progress & Stats** — Charts and analytics to track how you're improving over time
-- 📱 **Mobile-First Design** — Responsive UI that works great on any screen size
-- ⚡ **Blazing Fast** — Built on Next.js 15 with Turbopack for lightning-quick loads
+- 🎮 **4 Game Modes** — Classic (one-strike-out), Trivia Mix (rapid sync), Challenge (overclock timer), and Daily Sync (global streak)
+- 🌍 **4 Categories** — Geography & Society, Entertainment & Media, Science & Cosmos, and Tech & Future
+- ⚡ **Higher / Lower Mechanic** — Compare real-world data points against a fixed reference in real time
+- 🔥 **Daily Streak** — Come back every day to keep your streak alive with the global seed
+- 🏆 **Hall of Fame** — Leaderboard to compete against other players
+- 🤖 **AI-Powered Engine** — Questions generated via Google Genkit + Gemini (ENGINE_V4.2)
+- 📱 **Cyberpunk UI** — Dark terminal aesthetic with pixel fonts, glitch effects, and neon accents
 
 ---
 
@@ -140,13 +145,7 @@ This project uses [Codemagic](https://codemagic.io/) for CI/CD to build the Andr
 2. Configure your `codemagic.yaml` with signing credentials
 3. Trigger a build — the APK will be available as a build artifact
 
-To add a release manually:
-
-```bash
-# Go to your repo on GitHub
-# Releases → Draft a new release
-# Upload TriviaFlux.apk as a release asset
-```
+To add a release manually, go to **Releases → Draft a new release** on GitHub and upload `TriviaFlux.apk` as a release asset.
 
 ---
 
